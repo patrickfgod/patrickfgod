@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Patrick Fernandes Godoy 👋
 
-<!--
-**patrickfgod/patrickfgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building practical web applications, APIs and data-driven solutions.
 
-Here are some ideas to get you started:
+I have experience working with **React, Node.js, TypeScript, JavaScript, PostgreSQL, SQL and REST APIs**, and I am also expanding my skills in **Data Analytics, Power BI, Python and AI-assisted development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+
+- 💻 Full Stack development with React, Node.js and TypeScript
+- 🗄️ Experience with PostgreSQL, SQL queries and REST APIs
+- 📊 Currently expanding my skills in Data Analytics, Power BI and Python
+- 🤖 Exploring AI orchestration, multi-model systems and AI-assisted software development
+- 🧪 Interested in software quality, automation, testing and reliable AI workflows
+- 🌎 Open to remote opportunities in Brazil
+- ♿ PcD professional
+- 📚 Always learning through practical projects
+
+## 🛠️ Tech Stack
+
+**Languages & Development**
+
+`JavaScript` `TypeScript` `Python` `SQL`
+
+**Frontend**
+
+`React` `HTML` `CSS`
+
+**Backend**
+
+`Node.js` `REST APIs`
+
+**Database**
+
+`PostgreSQL`
+
+**Data & BI**
+
+`Power BI` `Excel` `Pandas`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+## 🚀 Featured Projects
+
+### AI Manager
+Multi-model AI orchestration platform focused on routing, reliability, memory, tools and supervised AI-assisted development.
+
+Currently under active development.
+
+### DIO Explorer — IBM Bob
+Project developed during the DIO / IBM Bob learning experience, focused on practical AI-assisted software development, testing and documentation.
+
+### AI Prompt Challenge
+DIO project focused on creating clear, structured and efficient prompts for AI systems.
+
+## 🎯 Current Focus
+
+I'm currently strengthening my knowledge in:
+
+- Data Analytics and Business Intelligence
+- Power BI and DAX
+- Python for data analysis
+- AI-assisted software engineering
+- Reliable multi-model AI systems
+
+My goal is to combine my development background with data and AI to build useful, reliable products.
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/patrickfernandesgodoy/
+- GitHub: https://github.com/patrickfgod
