@@ -17,29 +17,14 @@ I have experience working with **React, Node.js, TypeScript, JavaScript, Postgre
 
 ## 🛠️ Tech Stack
 
-**Languages & Development**
+### Hands-on experience
+`JavaScript` `TypeScript` `React` `Node.js` `PostgreSQL` `SQL` `REST APIs` `Git` `GitHub`
 
-`JavaScript` `TypeScript` `Python` `SQL`
+### Currently expanding
+`Power BI` `Python` `Pandas` `DAX` `Data Analytics`
 
-**Frontend**
-
-`React` `HTML` `CSS`
-
-**Backend**
-
-`Node.js` `REST APIs`
-
-**Database**
-
-`PostgreSQL`
-
-**Data & BI**
-
-`Power BI` `Excel` `Pandas`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
+### Current interests
+`AI-assisted development` `Multi-model AI systems` `Automation` `Software Quality`
 
 ## 🚀 Featured Projects
 
