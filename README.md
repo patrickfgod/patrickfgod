@@ -1,4 +1,4 @@
-# Hi, I'm Patrick Fernandes Godoy 👋
+# Hi, I'm Patrick 👋
 
 Full Stack Developer focused on building practical web applications, APIs and data-driven solutions.
 
